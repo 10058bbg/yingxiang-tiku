@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>医学影像技术医院招聘专用刷题</title>
-  <script src="./imaging_mobile_data.js?v=20260608-1"></script>
+  <script src="./imaging_mobile_data.js?v=20260608-3"></script>
   <style>
     :root {
       --bg: #f5f1e8;
@@ -1169,13 +1169,48 @@
       return pool[nextIndex];
     }
 
-    function buildPracticeEmpty(mode) {
-      if (mode === "wrong") {
+    function buildPracticeEmpty() {
+      const mode = document.getElementById("practice-mode").value;
+      const type = document.getElementById("practice-type").value;
+      const chapter = document.getElementById("practice-chapter").value;
+      const wrongIds = loadIdSet(wrongStorageKey);
+      const favoriteIds = loadIdSet(favoriteStorageKey);
+
+      const scopedPool = questionBank.filter(item => {
+        const chapterPass = chapter === "all" || item.chapter === chapter;
+        const modePass =
+          mode === "all" ||
+          (mode === "wrong" && wrongIds.has(item.id)) ||
+          (mode === "favorite" && favoriteIds.has(item.id));
+        return chapterPass && modePass;
+      });
+
+      if (mode === "wrong" && !scopedPool.length) {
         return "当前没有错题，先去随机刷题。答错的题会自动进入错题本。";
       }
-      if (mode === "favorite") {
+      if (mode === "favorite" && !scopedPool.length) {
         return "当前没有收藏题，刷题时点“收藏本题”即可加入。";
       }
+
+      if (type !== "all" && scopedPool.length) {
+        const counts = {
+          single: scopedPool.filter(item => item.type === "single").length,
+          multiple: scopedPool.filter(item => item.type === "multiple").length,
+          judgment: scopedPool.filter(item => item.type === "judgment").length
+        };
+
+        if (!counts[type]) {
+          const available = Object.entries(counts)
+            .filter(([, count]) => count > 0)
+            .map(([key, count]) => `${typeMap[key]} ${count} 道`)
+            .join("，");
+
+          if (chapter !== "all") {
+            return `当前章节“${chapter}”下没有${typeMap[type]}。${available ? `本章节现有：${available}。` : ""}请切换题型或改为“全部题型”。`;
+          }
+        }
+      }
+
       return "当前筛选条件下没有题目。";
     }
 
@@ -1188,7 +1223,7 @@
         state.currentQuestion = null;
         state.selectedAnswers = [];
         state.submitted = false;
-        host.innerHTML = `<div class="card empty">${buildPracticeEmpty(document.getElementById("practice-mode").value)}</div>`;
+        host.innerHTML = `<div class="card empty">${buildPracticeEmpty()}</div>`;
         saveCurrentProgress(null);
         return;
       }
