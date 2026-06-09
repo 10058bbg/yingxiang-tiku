@@ -3,6 +3,5036 @@ window.__QUESTION_BANK__ = [
     "chapter": "自定义章节",
     "type": "single",
     "sourceTag": "转换题库",
+    "question": "X 线的发现者是（）",
+    "options": [
+      "A. 豪斯菲尔德",
+      "B. 伦琴",
+      "C. 居里夫人",
+      "D. 爱因斯坦"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_0"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "诊断用 X 线的波长范围是（）",
+    "options": [
+      "A. 0.001-0.008nm",
+      "B. 0.008-0.031nm",
+      "C. 0.031-0.1nm",
+      "D. 0.1-1.0nm"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_1"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "高速电子撞击阳极靶面时，转换为 X 线的能量占比约为（）",
+    "options": [
+      "A. 99%",
+      "B. 50%",
+      "C. 10%",
+      "D. 1%"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_2"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "诊断用 X 线与人体相互作用的最主要形式是（）",
+    "options": [
+      "A. 光电效应、康普顿散射",
+      "B. 光电效应、电子对效应",
+      "C. 康普顿散射、相干散射",
+      "D. 电子对效应、相干散射"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_3"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于光电效应的描述，错误的是（）",
+    "options": [
+      "A. 不产生散射线，提高影像对比度",
+      "B. 会增加患者的辐射剂量",
+      "C. 管电压越高，发生比例越高",
+      "D. 入射光子能量全部被原子吸收"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_4"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "散射线的唯一来源是（）",
+    "options": [
+      "A. 光电效应",
+      "B. 康普顿散射",
+      "C. 电子对效应",
+      "D. 相干散射"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_5"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "X 线影像密度的核心影响因素是（）",
+    "options": [
+      "A. 管电压",
+      "B. mAs（管电流 - 时间乘积）",
+      "C. 摄影距离",
+      "D. 增感屏"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_6"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "X 线影像对比度的核心影响因素是（）",
+    "options": [
+      "A. 管电压",
+      "B. mAs",
+      "C. 摄影距离",
+      "D. 被照体厚度"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_7"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列哪项不属于 X 线影像的四大质量指标（）",
+    "options": [
+      "A. 密度",
+      "B. 对比度",
+      "C. 信噪比",
+      "D. 失真度"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_8"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "胸部 X 线摄影的标准摄影距离是（）",
+    "options": [
+      "A. 100cm",
+      "B. 120cm",
+      "C. 150cm",
+      "D. 180cm"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_9"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "四肢 X 线摄影的常规摄影距离是（）",
+    "options": [
+      "A. 60-80cm",
+      "B. 100-120cm",
+      "C. 150-180cm",
+      "D. 200cm"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_10"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "被照体厚度超过多少时，必须使用滤线栅（） * 注：原答案有误，根据 2026 版教材操作规范，被照体厚度≥15cm 时需使用滤线栅。",
+    "options": [
+      "A. 5cm",
+      "B. 10cm",
+      "C. 15cm",
+      "D. 20cm"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_11"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "高千伏摄影的管电压标准是（）",
+    "options": [
+      "A. ≥80kV",
+      "B. ≥100kV",
+      "C. ≥120kV",
+      "D. ≥150kV"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_12"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "软 X 线摄影主要适用于下列哪个部位的检查（）",
+    "options": [
+      "A. 胸部",
+      "B. 腹部",
+      "C. 乳腺",
+      "D. 腰椎"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_13"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "子宫输卵管造影的最佳检查时间是（）",
+    "options": [
+      "A. 月经来潮前 1 周",
+      "B. 月经干净后 3-7 天",
+      "C. 月经期",
+      "D. 月经干净后 10-14 天"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_14"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "CR 系统的成像载体是（）",
+    "options": [
+      "A. 平板探测器",
+      "B. IP 板（影像板）",
+      "C. 胶片",
+      "D. 闪烁体"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_15"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "DR 系统的核心部件是（）",
+    "options": [
+      "A. IP 板",
+      "B. 平板探测器（FP",
+      "D）",
+      "C. 影像读取装置",
+      "D. 高压发生器"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_16"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "直接转换型平板探测器的核心材料是（）",
+    "options": [
+      "A. 碘化铯",
+      "B. 非晶硅",
+      "C. 非晶硒",
+      "D. 钨酸钙"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_17"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "CT 的发明者是（）",
+    "options": [
+      "A. 伦琴",
+      "B. 豪斯菲尔德",
+      "C. 劳特伯",
+      "D. 曼斯菲尔德"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_18"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "CT 值的计算公式中，水的 CT 值被定义为（）",
+    "options": [
+      "A. +1000HU",
+      "B. 0HU",
+      "C. -1000HU",
+      "D. +500HU"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_19"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "正常人体组织中，CT 值最高的是（）",
+    "options": [
+      "A. 肌肉",
+      "B. 钙化",
+      "C. 骨皮质",
+      "D. 血液"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_20"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "脂肪组织的正常 CT 值范围是（）",
+    "options": [
+      "A. 0-+20HU",
+      "B. -20~-50HU",
+      "C. -80~-120HU",
+      "D. -1000HU"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_21"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "空气的 CT 值为（）",
+    "options": [
+      "A. 0HU",
+      "B. -500HU",
+      "C. -1000HU",
+      "D. +1000HU"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_22"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于窗宽的描述，正确的是（）",
+    "options": [
+      "A. 窗宽是图像显示的 CT 值中心",
+      "B. 窗宽越宽，图像对比度越高",
+      "C. 窗宽越窄，图像对比度越高",
+      "D. 窗宽决定图像的整体亮度"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_23"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "观察肺部含气结构，常规选用的窗宽窗位是（）",
+    "options": [
+      "A. WW80-100HU，WL30-40HU",
+      "B. WW300-500HU，WL30-50HU",
+      "C. WW1500-2000HU，WL-600~-700HU",
+      "D. WW1000-2000HU，WL300-500HU"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_24"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "观察骨骼、钙化结构，常规选用的窗宽窗位是（）",
+    "options": [
+      "A. WW80-100HU，WL30-40HU",
+      "B. WW300-500HU，WL30-50HU",
+      "C. WW1500-2000HU，WL-600~-700HU",
+      "D. WW1000-2000HU，WL300-500HU"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_25"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "颅脑 CT 平扫的常规窗宽窗位是（）",
+    "options": [
+      "A. WW80-100HU，WL30-40HU",
+      "B. WW300-500HU，WL30-50HU",
+      "C. WW1500-2000HU，WL-600~-700HU",
+      "D. WW1000-2000HU，WL300-500HU"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_26"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "螺旋 CT 中，螺距的定义是（）",
+    "options": [
+      "A. 扫描旋转一周检查床移动的距离 / 准直器宽度",
+      "B. 准直器宽度 / 扫描旋转一周检查床移动的距离",
+      "C. 扫描旋转一周检查床移动的距离 / 层厚",
+      "D. 层厚 / 扫描旋转一周检查床移动的距离"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_27"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于螺距的描述，错误的是（）",
+    "options": [
+      "A. 螺距越大，扫描速度越快",
+      "B. 螺距越大，辐射剂量越低",
+      "C. 螺距越大，图像噪声越小",
+      "D. 螺距越大，扫描覆盖范围越大"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_28"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "腹部 CT 增强扫描，门静脉期的常规延迟时间是（）",
+    "options": [
+      "A. 25-30s",
+      "B. 60-70s",
+      "C. 3-5min",
+      "D. 10-15s"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_29"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肾脏 CT 增强扫描，皮质期的常规延迟时间是（）",
+    "options": [
+      "A. 25-30s",
+      "B. 60-70s",
+      "C. 3-5min",
+      "D. 10-15s"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_30"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "临床最常用的 CT 图像后处理技术是（）",
+    "options": [
+      "A. MPR（多平面重建）",
+      "B. MIP（最大密度投影）",
+      "C. VR（容积重建）",
+      "D. SSD（表面遮盖显示）"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_31"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "用于 CTA 检查的核心后处理技术是（）",
+    "options": [
+      "A. MPR",
+      "B. MIP",
+      "C. MinIP",
+      "D. CPR"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_32"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "用于显示气道、支气管等含气结构的后处理技术是（）",
+    "options": [
+      "A. MIP",
+      "B. MinIP（最小密度投影）",
+      "C. VR",
+      "D. SSD"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_33"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "筛查房间隔缺损的金标准超声切面，对应的 CT 后处理重建类型是（）",
+    "options": [
+      "A. MPR 冠状位重建",
+      "B. CPR 曲面重建",
+      "C. MIP 最大密度投影",
+      "D. VR 容积重建"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_34"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "降低 CT 辐射剂量最直接、最有效的方法是（）",
+    "options": [
+      "A. 降低管电流（mAs）",
+      "B. 降低管电压",
+      "C. 增大螺距",
+      "D. 采用迭代重建算法"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_35"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "CT 设备中，接收穿过人体的 X 线光子并转换为电信号的核心部件是（）",
+    "options": [
+      "A. X 线管",
+      "B. 探测器",
+      "C. 高压发生器",
+      "D. 计算机系统"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_36"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "MRI 成像的基础是人体中含量最丰富的（）",
+    "options": [
+      "A. 氧原子核",
+      "B. 氢原子核（质子）",
+      "C. 碳原子核",
+      "D. 磷原子核"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_37"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "磁共振现象的必备条件不包括（）",
+    "options": [
+      "A. 强外静磁场",
+      "B. 射频脉冲",
+      "C. 梯度磁场",
+      "D. 电离辐射"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_38"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "T1 加权成像（T1WI）主要用于（）",
+    "options": [
+      "A. 显示病变",
+      "B. 显示解剖结构",
+      "C. 检测水分子弥散运动",
+      "D. 抑制脂肪信号"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_39"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "T2 加权成像（T2WI）主要用于（）",
+    "options": [
+      "A. 显示解剖结构",
+      "B. 显示病变",
+      "C. 评估心肌活性",
+      "D. 血管成像"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_40"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "对急性脑梗死极其敏感，发病 30 分钟内即可显示病灶的 MRI 序列是（）",
+    "options": [
+      "A. T1WI",
+      "B. T2WI",
+      "C. FLAIR",
+      "D. DWI（弥散加权成像）"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_41"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "抑制脑脊液高信号，清晰显示脑组织内水肿、病变的必备序列是（）",
+    "options": [
+      "A. T1WI",
+      "B. T2WI",
+      "C. FLAIR（液体衰减反转恢复序列）",
+      "D. GRE 序列"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_42"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "无需注射对比剂即可完成脑血管成像的 MRI 序列是（）",
+    "options": [
+      "A. TOF-MRA",
+      "B. CE-MRA",
+      "C. MRCP",
+      "D. MRU"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_43"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "无需注射对比剂，即可清晰显示胰胆管结构的 MRI 检查技术是（）",
+    "options": [
+      "A. MRA",
+      "B. MRCP",
+      "C. MRU",
+      "D. DWI"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_44"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列哪项属于 MRI 检查的绝对禁忌症（）",
+    "options": [
+      "A. 体内有钛合金骨科内固定物",
+      "B. 体内植入心脏起搏器者",
+      "C. 妊娠中晚期孕妇",
+      "D. 癫痫患者"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_45"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "MRI 增强扫描使用的对比剂是（）",
+    "options": [
+      "A. 碘海醇",
+      "B. 医用硫酸钡",
+      "C. 钆类顺磁性对比剂",
+      "D. 二氧化碳"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_46"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "DSA 的中文全称是（）",
+    "options": [
+      "A. 计算机断层扫描",
+      "B. 数字减影血管造影",
+      "C. 磁共振血管成像",
+      "D. 计算机 X 线摄影"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_47"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "DSA 最常用的减影方式是（）",
+    "options": [
+      "A. 时间减影",
+      "B. 能量减影",
+      "C. 混合减影",
+      "D. 空间减影"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_48"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "DSA 最常用的穿刺入路是（）",
+    "options": [
+      "A. 桡动脉",
+      "B. 股动脉",
+      "C. 肱动脉",
+      "D. 颈动脉"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_49"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "医学影像设备与 PACS 系统通信的通用核心标准是（）",
+    "options": [
+      "A. HL7",
+      "B. DICOM3.0",
+      "C. ISO9001",
+      "D. ICD-10"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_50"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "PACS 系统的中文全称是（）",
+    "options": [
+      "A. 放射信息系统",
+      "B. 医院信息系统",
+      "C. 影像归档和通信系统",
+      "D. 实验室信息系统"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_51"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "RIS 系统的核心功能不包括（）",
+    "options": [
+      "A. 患者登记、检查预约",
+      "B. 报告书写、审核与发布",
+      "C. 医学影像的三维后处理",
+      "D. 工作量统计、收费管理"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_52"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "放射工作人员个人剂量监测周期最长不得超过（）",
+    "options": [
+      "A. 1 个月",
+      "B. 3 个月",
+      "C. 6 个月",
+      "D. 1 年"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_53"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "放射工作人员在岗期间职业健康检查的周期为（）",
+    "options": [
+      "A. 半年",
+      "B. 1 年",
+      "C. 2 年",
+      "D. 3 年"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_54"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "医疗废物登记资料必须至少保存（）",
+    "options": [
+      "A. 1 年",
+      "B. 2 年",
+      "C. 3 年",
+      "D. 5 年"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_55"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于 X 线产生条件的描述，错误的是（）",
+    "options": [
+      "A. 电子源",
+      "B. 高速电子流",
+      "C. 阳极靶面",
+      "D. 有氧环境"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_56"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于 DR 与 CR 的区别，描述错误的是（）",
+    "options": [
+      "A. DR 成像速度快于 CR",
+      "B. DR 的空间分辨率高于 CR",
+      "C. DR 的辐射剂量高于 CR",
+      "D. DR 采用平板探测器，CR 采用 IP 板"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_57"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "人体软组织中，超声的平均传播速度是（）",
+    "options": [
+      "A. 330m/s",
+      "B. 1540m/s",
+      "C. 3000m/s",
+      "D. 15000m/s"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_58"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "诊断用超声的频率范围是（）",
+    "options": [
+      "A. 2-13MHz",
+      "B. 20-20000Hz",
+      "C. 1-2MHz",
+      "D. 20-50MHz"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_59"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "B 超成像的核心基础是（）",
+    "options": [
+      "A. 人体不同组织之间存在声阻抗差异",
+      "B. 人体不同组织的密度差异",
+      "C. 人体不同组织的原子序数差异",
+      "D. 人体不同组织的氢质子含量差异"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_60"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "超声遇到结石、钙化等强衰减组织时，后方出现的无回声暗区称为（）",
+    "options": [
+      "A. 后方回声增强",
+      "B. 声影",
+      "C. 混响伪影",
+      "D. 彗星尾征"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_61"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "超声穿过囊肿、积液等液性结构时，后方组织回声增强，该现象称为（）",
+    "options": [
+      "A. 声影",
+      "B. 后方回声增强",
+      "C. 混响伪影",
+      "D. 镜面伪影"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_62"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "适用于甲状腺、乳腺等浅表器官检查的探头是（）",
+    "options": [
+      "A. 凸阵探头",
+      "B. 线阵探头",
+      "C. 相控阵探头",
+      "D. 腔内探头"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_63"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "适用于腹部、盆腔检查的探头是（）",
+    "options": [
+      "A. 线阵探头",
+      "B. 凸阵探头",
+      "C. 相控阵探头",
+      "D. 经食管探头"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_64"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "适用于心脏检查的探头是（）",
+    "options": [
+      "A. 线阵探头",
+      "B. 凸阵探头",
+      "C. 相控阵探头",
+      "D. 经阴道探头"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_65"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "彩色多普勒血流成像中，红色表示（）",
+    "options": [
+      "A. 血流朝向探头",
+      "B. 血流背离探头",
+      "C. 高速血流",
+      "D. 低速血流"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_66"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "彩色多普勒血流成像中，蓝色表示（）",
+    "options": [
+      "A. 血流朝向探头",
+      "B. 血流背离探头",
+      "C. 动脉血流",
+      "D. 静脉血流"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_67"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "多普勒频移公式中，声束与血流方向的夹角为多少时，频移最大（）",
+    "options": [
+      "A. 0°",
+      "B. 45°",
+      "C. 90°",
+      "D. 180°"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_68"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "多普勒频移公式中，声束与血流方向的夹角为多少时，频移为 0（）",
+    "options": [
+      "A. 0°",
+      "B. 30°",
+      "C. 60°",
+      "D. 90°"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_69"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "正常胆囊超声测量的壁厚正常值是（）",
+    "options": [
+      "A. ≤1mm",
+      "B. ≤3mm",
+      "C. ≤5mm",
+      "D. ≤10mm"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_70"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "正常肝脏右叶斜径的超声测量正常值是（）",
+    "options": [
+      "A. ≤10cm",
+      "B. ≤12cm",
+      "C. ≤14cm",
+      "D. ≤16cm"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_71"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "正常脾脏厚度的超声测量正常值是（）",
+    "options": [
+      "A. ≤3cm",
+      "B. ≤4cm",
+      "C. ≤5cm",
+      "D. ≤6cm"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_72"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "筛查房间隔缺损的超声金标准切面是（）",
+    "options": [
+      "A. 左室长轴切面",
+      "B. 心尖四腔心切面",
+      "C. 剑下四腔心切面",
+      "D. 心底短轴切面"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_73"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "超声检查中，最基础、最核心的成像模式是（）",
+    "options": [
+      "A. A 型超声",
+      "B. B 型超声",
+      "C. M 型超声",
+      "D. 多普勒超声"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_74"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "人体组织中，超声衰减程度最高的是（）",
+    "options": [
+      "A. 血液",
+      "B. 肌肉",
+      "C. 脂肪",
+      "D. 骨骼、钙化"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_75"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肝胆胰脾超声检查前，患者需要空腹的时间是（）",
+    "options": [
+      "A. 2 小时以上",
+      "B. 4 小时以上",
+      "C. 8 小时以上",
+      "D. 12 小时以上"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_76"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "经腹妇科、泌尿系超声检查前，需要患者（）",
+    "options": [
+      "A. 空腹 8 小时",
+      "B. 适度充盈膀胱",
+      "C. 排空膀胱",
+      "D. 清洁灌肠"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_77"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "经阴道超声检查前，需要患者（）",
+    "options": [
+      "A. 空腹 8 小时",
+      "B. 适度充盈膀胱",
+      "C. 排空膀胱",
+      "D. 清洁灌肠"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_78"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "超声中，“彗星尾征” 属于哪种伪影（）",
+    "options": [
+      "A. 混响伪影",
+      "B. 多次内部混响",
+      "C. 旁瓣伪影",
+      "D. 镜面伪影"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_79"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "胆囊结石出现的 “披纱征”，属于哪种超声伪影（）",
+    "options": [
+      "A. 混响伪影",
+      "B. 旁瓣伪影",
+      "C. 镜面伪影",
+      "D. 声影伪影"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_80"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肝脏超声检查最常用的体位是（）",
+    "options": [
+      "A. 俯卧位",
+      "B. 仰卧位",
+      "C. 右侧卧位",
+      "D. 半坐位"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_81"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肾脏超声检查最常用的体位是（）",
+    "options": [
+      "A. 仰卧位",
+      "B. 俯卧位",
+      "C. 左侧卧位",
+      "D. 右侧卧位"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_82"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "胎儿成型的关键时间节点是（）",
+    "options": [
+      "A. 妊娠 4 周末",
+      "B. 妊娠 6 周末",
+      "C. 妊娠 10 周末",
+      "D. 妊娠 20 周末"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_83"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "中孕期系统超声大排畸的最佳时间是（）",
+    "options": [
+      "A. 妊娠 11-13⁺⁶周",
+      "B. 妊娠 16-18 周",
+      "C. 妊娠 20-24 周",
+      "D. 妊娠 28-32 周"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_84"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "早孕期可清晰显示胎芽及原始心管搏动的时间是（）",
+    "options": [
+      "A. 妊娠 4 周末",
+      "B. 妊娠 6 周末",
+      "C. 妊娠 8 周末",
+      "D. 妊娠 10 周末"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_85"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "女性正常经期时长是（）",
+    "options": [
+      "A. 1-3 天",
+      "B. 2-8 天",
+      "C. 7-14 天",
+      "D. 15-28 天"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_86"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "女性正常月经量是（）",
+    "options": [
+      "A. 5-20ml",
+      "B. 20-60ml",
+      "C. 60-100ml",
+      "D. 100-200ml"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_87"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "女性月经过多的诊断标准是月经量超过（）",
+    "options": [
+      "A. 40ml",
+      "B. 60ml",
+      "C. 80ml",
+      "D. 100ml"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_88"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "女性经期严禁进行的检查是（）",
+    "options": [
+      "A. 经腹妇科超声",
+      "B. 经阴道超声",
+      "C. 甲状腺超声",
+      "D. 胸部 X 线"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_89"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "女性正常月经周期的平均时长是（）",
+    "options": [
+      "A. 21 天",
+      "B. 28 天",
+      "C. 35 天",
+      "D. 40 天"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_90"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "早孕期 NT 筛查的最佳时间是（）",
+    "options": [
+      "A. 妊娠 6-8 周",
+      "B. 妊娠 11-13⁺⁶周",
+      "C. 妊娠 16-18 周",
+      "D. 妊娠 20-24 周"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_91"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "睾丸扭转急诊确诊的首选检查是（）",
+    "options": [
+      "A. X 线",
+      "B. CT",
+      "C. 超声",
+      "D. MRI"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_92"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "胆囊结石首选的影像学检查是（）",
+    "options": [
+      "A. 超声",
+      "B. CT",
+      "C. MRI",
+      "D. X 线"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_93"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "超声显示甲状腺血流信号极其丰富，呈 “火海征”，最可能的诊断是（）",
+    "options": [
+      "A. 桥本甲状腺炎",
+      "B. 甲状腺癌",
+      "C. 甲状腺功能亢进",
+      "D. 甲状腺腺瘤"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_94"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "超声二尖瓣狭窄的特征性 M 型超声表现是（）",
+    "options": [
+      "A. 城墙样改变",
+      "B. 吊床样改变",
+      "C. 圆顶样改变",
+      "D. 蓬草样改变"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_95"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "左室射血分数（LVEF）的正常值是（）",
+    "options": [
+      "A. ≥35%",
+      "B. ≥45%",
+      "C. ≥55%",
+      "D. ≥75%"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_96"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "正常左室舒张末期内径，男性应小于（）",
+    "options": [
+      "A. 45mm",
+      "B. 50mm",
+      "C. 55mm",
+      "D. 60mm"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_97"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "正常左房内径的正常值是（）",
+    "options": [
+      "A. ＜30mm",
+      "B. ＜40mm",
+      "C. ＜50mm",
+      "D. ＜60mm"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_98"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "超声心动图最基础、最核心的切面是（） 模块二 影像诊断学核心考点（100 道）",
+    "options": [
+      "A. 左室长轴切面",
+      "B. 心尖四腔心切面",
+      "C. 剑下四腔心切面",
+      "D. 心底短轴切面"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_99"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "超急性期脑梗死确诊的金标准 MRI 序列是（）",
+    "options": [
+      "A. T1WI",
+      "B. T2WI",
+      "C. DWI",
+      "D. FLAIR"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_100"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "脑梗死最根本的病因是（）",
+    "options": [
+      "A. 脑血管畸形",
+      "B. 动脉粥样硬化",
+      "C. 高血压",
+      "D. 动脉瘤"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_101"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "高血压性脑出血最常见的部位是（）",
+    "options": [
+      "A. 脑干",
+      "B. 小脑",
+      "C. 基底节区（壳核）",
+      "D. 大脑半球白质"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_102"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "急性期脑出血的典型 CT 表现是（）",
+    "options": [
+      "A. 边界模糊的低密度灶",
+      "B. 边界清晰的高密度灶",
+      "C. 混杂密度灶",
+      "D. 无明显异常"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_103"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "亚急性期脑出血的特征性 MRI 表现是（）",
+    "options": [
+      "A. T1WI 低信号、T2WI 高信号",
+      "B. T1WI 等信号、T2WI 低信号",
+      "C. T1WI、T2WI 均呈高信号",
+      "D. T1WI、T2WI 均呈低信号"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_104"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "腔隙性脑梗死的病灶直径通常小于（）",
+    "options": [
+      "A. 5mm",
+      "B. 10mm",
+      "C. 15mm",
+      "D. 20mm"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_105"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "蛛网膜下腔出血的首选检查是（）",
+    "options": [
+      "A. MRI 平扫",
+      "B. CT 平扫",
+      "C. DSA",
+      "D. CTA"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_106"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "蛛网膜下腔出血最常见的病因是（）",
+    "options": [
+      "A. 高血压",
+      "B. 颅内动脉瘤破裂",
+      "C. 脑血管畸形",
+      "D. 脑外伤"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_107"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "硬膜外血肿的典型 CT 表现是（）",
+    "options": [
+      "A. 颅骨内板下新月形高密度灶",
+      "B. 颅骨内板下梭形 / 双凸形高密度灶",
+      "C. 脑内圆形高密度灶",
+      "D. 脑沟、脑池内高密度影"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_108"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "硬膜下血肿的典型 CT 表现是（）",
+    "options": [
+      "A. 颅骨内板下新月形高密度灶",
+      "B. 颅骨内板下梭形高密度灶",
+      "C. 脑内圆形高密度灶",
+      "D. 脑沟、脑池内高密度影"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_109"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "颅内最常见的原发性恶性肿瘤是（）",
+    "options": [
+      "A. 脑膜瘤",
+      "B. 垂体瘤",
+      "C. 胶质瘤",
+      "D. 转移瘤"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_110"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "胶质瘤最常见的亚型是（）",
+    "options": [
+      "A. 少突胶质细胞瘤",
+      "B. 星形细胞瘤",
+      "C. 室管膜瘤",
+      "D. 胶质母细胞瘤"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_111"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "星形细胞瘤最好发的部位是（）",
+    "options": [
+      "A. 小脑",
+      "B. 脑干",
+      "C. 大脑半球白质",
+      "D. 鞍区"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_112"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "WHO 分级中，星形细胞瘤恶性程度最高的是（）",
+    "options": [
+      "A. Ⅰ 级",
+      "B. Ⅱ 级",
+      "C. Ⅲ 级",
+      "D. Ⅳ 级"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_113"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "高级别星形细胞瘤的典型增强表现是（）",
+    "options": [
+      "A. 无强化",
+      "B. 轻度均匀强化",
+      "C. 明显不均匀环形强化",
+      "D. 结节状强化"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_114"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "颅内良性肿瘤中，最常见的是（）",
+    "options": [
+      "A. 垂体瘤",
+      "B. 听神经瘤",
+      "C. 脑膜瘤",
+      "D. 颅咽管瘤"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_115"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "脑膜瘤的特征性增强表现是（）",
+    "options": [
+      "A. 无强化",
+      "B. 轻度强化",
+      "C. 明显均匀强化，可见 “脑膜尾征”",
+      "D. 环形强化"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_116"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "颅内转移瘤最常见的原发肿瘤是（）",
+    "options": [
+      "A. 乳腺癌",
+      "B. 结直肠癌",
+      "C. 肺癌",
+      "D. 肝癌"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_117"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "颅内转移瘤的典型影像学表现是（）",
+    "options": [
+      "A. 单发结节，无水肿",
+      "B. 多发结节，小病灶大水肿",
+      "C. 宽基底与硬脑膜相连，均匀强化",
+      "D. 沿脑室壁生长，均匀强化"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_118"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "大叶性肺炎最常见的致病菌是（）",
+    "options": [
+      "A. 金黄色葡萄球菌",
+      "B. 肺炎链球菌",
+      "C. 厌氧菌",
+      "D. 肺炎克雷伯杆菌"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_119"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "大叶性肺炎实变期的特征性影像学表现是（）",
+    "options": [
+      "A. 双肺散在斑片状模糊影",
+      "B. 沿肺叶 / 肺段分布的均匀致密实变影，可见支气管充气征",
+      "C. 厚壁空洞，内见液气平面",
+      "D. 弥漫性粟粒状结节影"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_120"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "小叶性肺炎（支气管肺炎）好发于（）",
+    "options": [
+      "A. 青壮年",
+      "B. 儿童、老年人、体弱卧床患者",
+      "C. 孕妇",
+      "D. 中青年女性"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_121"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "小叶性肺炎的典型影像学表现是（）",
+    "options": [
+      "A. 沿肺叶分布的大片实变影",
+      "B. 双肺中下野内中带散在的斑片状模糊影",
+      "C. 双肺弥漫性粟粒状结节影",
+      "D. 薄壁空洞"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_122"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肺脓肿的特征性影像学表现是（）",
+    "options": [
+      "A. 大片致密影，内见厚壁空洞，洞内可见液气平面",
+      "B. 薄壁空洞，内无液气平面",
+      "C. 厚壁偏心空洞，内壁凹凸不平",
+      "D. 多发薄壁空腔"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_123"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肺脓肿最常见的致病菌是（）",
+    "options": [
+      "A. 肺炎链球菌",
+      "B. 金黄色葡萄球菌、厌氧菌",
+      "C. 结核分枝杆菌",
+      "D. 真菌"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_124"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "继发性肺结核最好发的部位是（）",
+    "options": [
+      "A. 双肺下叶基底段",
+      "B. 双肺上叶尖后段、下叶背段",
+      "C. 右肺中叶",
+      "D. 左肺舌段"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_125"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "继发性肺结核的特征性影像学表现是（）",
+    "options": [
+      "A. 大片均匀实变影",
+      "B. 渗出、增殖、干酪样坏死、空洞、钙化、纤维条索等多种病灶并存",
+      "C. 双肺弥漫分布的粟粒状结节影",
+      "D. 肺门肿块，伴阻塞性肺炎"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_126"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "急性血行播散型肺结核的 “三均匀” 特点不包括（）",
+    "options": [
+      "A. 大小均匀",
+      "B. 密度均匀",
+      "C. 分布均匀",
+      "D. 强化均匀"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_127"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "原发性肺结核的典型表现是（）",
+    "options": [
+      "A. 厚壁空洞",
+      "B. 原发综合征",
+      "C. 双肺粟粒状结节影",
+      "D. 胸膜增厚、钙化"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_128"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肺癌中，与吸烟高度相关、中央型多见的病理类型是（）",
+    "options": [
+      "A. 腺癌",
+      "B. 鳞癌",
+      "C. 小细胞癌",
+      "D. 大细胞癌"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_129"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肺癌中，周围型多见、女性多见的病理类型是（）",
+    "options": [
+      "A. 鳞癌",
+      "B. 腺癌",
+      "C. 小细胞癌",
+      "D. 大细胞癌"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_130"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肺癌中，恶性程度最高的病理类型是（）",
+    "options": [
+      "A. 鳞癌",
+      "B. 腺癌",
+      "C. 小细胞癌",
+      "D. 大细胞癌"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_131"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "中央型肺癌的典型影像学表现不包括（）",
+    "options": [
+      "A. 肺门区肿块影",
+      "B. 支气管狭窄 / 截断",
+      "C. 远端阻塞性肺炎、肺不张",
+      "D. 肺内结节，边缘分叶、毛刺"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_132"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "周围型肺癌的典型影像学表现不包括（）",
+    "options": [
+      "A. 肺内结节 / 肿块影，边缘分叶、细短毛刺",
+      "B. 胸膜凹陷征",
+      "C. 支气管充气征、空泡征",
+      "D. 沿肺段分布的实变影，可见支气管充气征"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_133"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肺转移瘤最常见的影像学表现是（）",
+    "options": [
+      "A. 双肺多发大小不等的结节影，边界清晰",
+      "B. 双肺弥漫性粟粒状结节影",
+      "C. 双肺散在斑片状模糊影",
+      "D. 单发厚壁空洞"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_134"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "前纵隔最常见的肿瘤是（）",
+    "options": [
+      "A. 淋巴瘤",
+      "B. 神经源性肿瘤",
+      "C. 胸腺瘤",
+      "D. 支气管囊肿"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_135"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "中纵隔最常见的肿瘤是（）",
+    "options": [
+      "A. 胸腺瘤",
+      "B. 畸胎瘤",
+      "C. 淋巴瘤",
+      "D. 神经源性肿瘤"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_136"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "后纵隔最常见的肿瘤是（）",
+    "options": [
+      "A. 胸腺瘤",
+      "B. 畸胎瘤",
+      "C. 淋巴瘤",
+      "D. 神经源性肿瘤"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_137"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "畸胎瘤的特征性影像学表现是（）",
+    "options": [
+      "A. 均匀强化的软组织肿块",
+      "B. 肿块内可见脂肪、钙化、骨骼、液体等多种成分",
+      "C. 薄壁水样密度灶，无强化",
+      "D. 多发淋巴结肿大，融合成团"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_138"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "大量胸腔积液的典型 X 线表现是（）",
+    "options": [
+      "A. 肋膈角变钝",
+      "B. 下肺野均匀致密影，上缘呈外高内低的弧形",
+      "C. 患侧胸腔均匀致密影，纵隔向健侧移位",
+      "D. 胸壁内侧扁丘状致密影"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_139"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "气胸的典型 X 线表现是（）",
+    "options": [
+      "A. 患侧胸腔内无肺纹理的透亮区，可见压缩的肺边缘",
+      "B. 患侧胸腔均匀致密影，纵隔向健侧移位",
+      "C. 下肺野均匀致密影，上缘呈外高内低的弧形",
+      "D. 肺野内斑片状模糊影"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_140"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "左心室增大最常见的原因是（）",
+    "options": [
+      "A. 二尖瓣狭窄",
+      "B. 高血压性心脏病",
+      "C. 房间隔缺损",
+      "D. 肺源性心脏病"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_141"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列哪项会导致左心室容量负荷过重（前负荷增加）（）",
+    "options": [
+      "A. 高血压",
+      "B. 主动脉瓣狭窄",
+      "C. 主动脉瓣关闭不全",
+      "D. 肺动脉高压"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_142"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列哪项会导致左心室压力负荷过重（后负荷增加）（）",
+    "options": [
+      "A. 二尖瓣关闭不全",
+      "B. 高血压性心脏病",
+      "C. 动脉导管未闭",
+      "D. 房间隔缺损"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_143"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "诊断冠心病的金标准是（）",
+    "options": [
+      "A. 冠脉 CTA",
+      "B. 冠脉造影（DS",
+      "A）",
+      "C. 超声心动图",
+      "D. 心肌核素扫描"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_144"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "心肌缺血的超声心动图特征性表现是（）",
+    "options": [
+      "A. 心腔扩大",
+      "B. 缺血区域心室壁运动异常",
+      "C. 瓣膜反流",
+      "D. 心包积液"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_145"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "风湿性心脏病最常累及的瓣膜是（）",
+    "options": [
+      "A. 主动脉瓣",
+      "B. 二尖瓣",
+      "C. 三尖瓣",
+      "D. 肺动脉瓣"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_146"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "二尖瓣狭窄的典型心影形态是（）",
+    "options": [
+      "A. 靴型心",
+      "B. 梨型心",
+      "C. 烧瓶型心",
+      "D. 普大型心"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_147"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "高血压性心脏病的典型心影形态是（）",
+    "options": [
+      "A. 靴型心",
+      "B. 梨型心",
+      "C. 烧瓶型心",
+      "D. 普大型心"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_148"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "中大量心包积液的典型心影形态是（）",
+    "options": [
+      "A. 靴型心",
+      "B. 梨型心",
+      "C. 烧瓶型心",
+      "D. 普大型心"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_149"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "主动脉夹层的首选影像学检查是（）",
+    "options": [
+      "A. 胸部 X 线",
+      "B. 冠脉 CTA",
+      "C. 主动脉 CTA",
+      "D. 超声心动图"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_150"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "主动脉夹层的特征性影像学表现是（）",
+    "options": [
+      "A. 主动脉管腔扩张",
+      "B. 主动脉管腔内可见内膜片，分为真腔和假腔",
+      "C. 主动脉壁钙化",
+      "D. 主动脉壁增厚、强化"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_151"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肝细胞癌的典型 CT 增强表现是（）",
+    "options": [
+      "A. 快进慢出",
+      "B. 快进快出",
+      "C. 渐进性强化",
+      "D. 无强化"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_152"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肝血管瘤的典型 CT 增强表现是（）",
+    "options": [
+      "A. 快进快出",
+      "B. 快进慢出，渐进性向中心填充",
+      "C. 环形强化",
+      "D. 无强化"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_153"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肝血管瘤的特征性 MRI 表现是（）",
+    "options": [
+      "A. T1WI 低信号，T2WI 低信号",
+      "B. T1WI 高信号，T2WI 高信号",
+      "C. T2WI 呈明显高信号，“灯泡征”",
+      "D. DWI 呈明显高信号"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_154"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肝转移瘤的典型增强表现是（）",
+    "options": [
+      "A. 快进快出",
+      "B. 牛眼征",
+      "C. 渐进性强化",
+      "D. 环形强化，内壁光滑"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_155"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肝脓肿的特征性影像学表现不包括（）",
+    "options": [
+      "A. 环形强化，内壁光滑",
+      "B. 中心坏死区 DWI 呈高信号",
+      "C. 周围伴水肿带",
+      "D. 快进快出强化模式"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_156"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肝硬化的影像学表现不包括（）",
+    "options": [
+      "A. 肝脏体积缩小，边缘凹凸不平",
+      "B. 肝裂增宽，肝叶比例失调",
+      "C. 继发脾大、门静脉高压、腹水",
+      "D. 肝内多发肿块，快进快出强化"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_157"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "急性胆囊炎的特征性超声表现不包括（）",
+    "options": [
+      "A. 胆囊增大，张力增高",
+      "B. 胆囊壁弥漫性增厚，呈 “双边征”",
+      "C. 胆囊内强回声团，后方伴声影",
+      "D. 胆囊周围可见渗出液"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_158"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "胰腺癌最好发的部位是（）",
+    "options": [
+      "A. 胰头部",
+      "B. 胰体部",
+      "C. 胰尾部",
+      "D. 全胰腺"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_159"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "胰头癌的特征性影像学表现是（）",
+    "options": [
+      "A. 胰腺局部肿块，快进快出强化",
+      "B. 胰管、胆总管扩张，呈 “双管征”",
+      "C. 胰腺弥漫性增大，胰周渗出",
+      "D. 胰管扩张，呈串珠状，伴钙化"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_160"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "腹部外伤最常见的实质脏器破裂是（）",
+    "options": [
+      "A. 肝脏破裂",
+      "B. 脾脏破裂",
+      "C. 肾脏破裂",
+      "D. 胰腺破裂"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_161"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肾癌的典型 CT 增强表现是（）",
+    "options": [
+      "A. 快进快出",
+      "B. 快进慢出",
+      "C. 无强化",
+      "D. 环形强化"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_162"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "膀胱癌最好发的部位是（）",
+    "options": [
+      "A. 膀胱顶部",
+      "B. 膀胱三角区、侧壁",
+      "C. 膀胱前壁",
+      "D. 膀胱颈部"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_163"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "前列腺增生好发于（）",
+    "options": [
+      "A. 外周带",
+      "B. 移行带",
+      "C. 中央带",
+      "D. 前纤维肌质区"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_164"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "前列腺癌最好发于（）",
+    "options": [
+      "A. 外周带",
+      "B. 移行带",
+      "C. 中央带",
+      "D. 前纤维肌质区"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_165"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "异位妊娠最常见的部位是（）",
+    "options": [
+      "A. 卵巢",
+      "B. 输卵管壶腹部",
+      "C. 输卵管峡部",
+      "D. 腹腔"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_166"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "股骨头缺血性坏死早期诊断的金标准是（）",
+    "options": [
+      "A. X 线",
+      "B. CT",
+      "C. MRI",
+      "D. 超声"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_167"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "股骨头缺血性坏死 Ⅲ 期的特征性 X 线表现是（）",
+    "options": [
+      "A. 股骨头内斑片状硬化灶",
+      "B. 股骨头软骨下骨塌陷，出现 “新月征”",
+      "C. 股骨头明显塌陷、变形",
+      "D. 髋关节间隙变窄"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_168"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "股骨头缺血性坏死早期的特征性 MRI 表现是（）",
+    "options": [
+      "A. 双线征",
+      "B. 新月征",
+      "C. 股骨头塌陷",
+      "D. 髋关节间隙变窄"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_169"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "骨囊肿最好发的部位是（）",
+    "options": [
+      "A. 长骨干骺端，肱骨近端、股骨近端",
+      "B. 长骨骨干",
+      "C. 脊柱",
+      "D. 骨盆"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_170"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "骨囊肿的典型影像学表现是（）",
+    "options": [
+      "A. 干骺端中心性、圆形 / 椭圆形骨质破坏，边界清晰，有硬化边，无骨膜反应",
+      "B. 浸润性骨质破坏，边界模糊，伴骨膜反应",
+      "C. 偏心性、膨胀性骨质破坏，呈皂泡样改变",
+      "D. 骨质破坏，伴肿瘤骨形成、软组织肿块"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_171"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "原发性恶性骨肿瘤中，最常见的是（）",
+    "options": [
+      "A. 软骨肉瘤",
+      "B. 骨肉瘤",
+      "C. 尤文肉瘤",
+      "D. 骨髓瘤"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_172"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "骨肉瘤最好发的年龄是（）",
+    "options": [
+      "A. 10-25 岁青少年",
+      "B. 30-40 岁中年",
+      "C. 50-60 岁中老年",
+      "D. 70 岁以上老年人"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_173"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "骨肉瘤最好发的部位是（）",
+    "options": [
+      "A. 长骨干骺端，股骨远端、胫骨近端、肱骨近端",
+      "B. 长骨骨干",
+      "C. 脊柱",
+      "D. 骨盆"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_174"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "骨肉瘤的特征性影像学表现不包括（）",
+    "options": [
+      "A. 骨质破坏",
+      "B. 肿瘤骨形成",
+      "C. 骨膜反应（Codman 三角、日光放射状）",
+      "D. 边界清晰的膨胀性骨质破坏，无骨膜反应"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_175"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "良性骨肿瘤的影像学表现是（）",
+    "options": [
+      "A. 浸润性骨质破坏，边界模糊",
+      "B. 膨胀性骨质破坏，边界清晰，有硬化边",
+      "C. 明显的骨膜反应，Codman 三角",
+      "D. 软组织肿块，侵犯周围组织"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_176"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "恶性骨肿瘤的影像学表现是（）",
+    "options": [
+      "A. 膨胀性骨质破坏，边界清晰",
+      "B. 浸润性骨质破坏，边界模糊，骨皮质中断",
+      "C. 无骨膜反应",
+      "D. 无软组织肿块"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_177"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "儿童骨折的特殊类型是（）",
+    "options": [
+      "A. 横行骨折",
+      "B. 斜行骨折",
+      "C. 青枝骨折、骨骺分离",
+      "D. 粉碎性骨折"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_178"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "Colles 骨折的远折端移位方向是（）",
+    "options": [
+      "A. 向掌侧、尺侧移位",
+      "B. 向背侧、桡侧移位",
+      "C. 向掌侧、桡侧移位",
+      "D. 向背侧、尺侧移位"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_179"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "急性化脓性骨髓炎早期（发病 2 周内）的首选检查是（）",
+    "options": [
+      "A. X 线",
+      "B. CT",
+      "C. MRI",
+      "D. 超声"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_180"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "脊柱结核最常见的发病部位是（）",
+    "options": [
+      "A. 颈椎",
+      "B. 胸椎",
+      "C. 腰椎",
+      "D. 骶椎"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_181"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "脊柱结核的特征性影像学表现不包括（）",
+    "options": [
+      "A. 相邻椎体骨质破坏",
+      "B. 椎间隙变窄 / 消失",
+      "C. 椎旁冷脓肿形成",
+      "D. 椎间隙正常，椎体附件骨质破坏"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_182"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "类风湿关节炎最早累及的部位是（）",
+    "options": [
+      "A. 膝关节",
+      "B. 髋关节",
+      "C. 手足小关节",
+      "D. 脊柱"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_183"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "强直性脊柱炎最早累及的部位是（）",
+    "options": [
+      "A. 腰椎",
+      "B. 胸椎",
+      "C. 骶髂关节",
+      "D. 髋关节"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_184"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "强直性脊柱炎的特征性影像学表现是（）",
+    "options": [
+      "A. 竹节样脊柱",
+      "B. 手指关节梭形肿胀，骨质侵蚀",
+      "C. 关节间隙变窄，边缘骨赘形成",
+      "D. 关节旁穿凿样骨质破坏"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_185"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "痛风性关节炎最常见的发病部位是（）",
+    "options": [
+      "A. 第一跖趾关节",
+      "B. 膝关节",
+      "C. 踝关节",
+      "D. 手指关节"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_186"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "腰椎间盘突出症最好发的部位是（）",
+    "options": [
+      "A. L1-L2、L2-L3",
+      "B. L2-L3、L3-L4",
+      "C. L3-L4、L4-L5",
+      "D. L4-L5、L5-S1"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_187"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "乳腺癌最好发的部位是（）",
+    "options": [
+      "A. 乳腺内上象限",
+      "B. 乳腺外上象限",
+      "C. 乳腺内下象限",
+      "D. 乳腺外下象限"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_188"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "鼻咽癌最好发的部位是（）",
+    "options": [
+      "A. 鼻咽顶壁、咽隐窝",
+      "B. 鼻咽前壁",
+      "C. 鼻咽侧壁",
+      "D. 鼻咽后壁"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_189"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "喉癌最好发的部位是（）",
+    "options": [
+      "A. 声门上区",
+      "B. 声门区",
+      "C. 声门下区",
+      "D. 梨状窝"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_190"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "鼻窦炎最好发的部位是（）",
+    "options": [
+      "A. 上颌窦",
+      "B. 筛窦",
+      "C. 额窦",
+      "D. 蝶窦"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_191"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于急性胰腺炎的 CT 表现，错误的是（）",
+    "options": [
+      "A. 胰腺体积增大，轮廓模糊",
+      "B. 胰周脂肪间隙模糊，肾前筋膜增厚",
+      "C. 增强扫描胰腺均匀强化，无坏死区",
+      "D. 胰腺实质坏死区增强扫描明显强化"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_192"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于肾结石的影像学表现，错误的是（）",
+    "options": [
+      "A. 超声表现为肾集合系统内强回声团，后方伴声影",
+      "B. CT 表现为肾集合系统内高密度灶",
+      "C. X 线平片均能清晰显示",
+      "D. 可伴肾积水"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_193"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于子宫肌瘤的超声表现，错误的是（）",
+    "options": [
+      "A. 子宫增大，形态不规则",
+      "B. 肌层内圆形低回声结节，边界清晰",
+      "C. CDFI 可见周边环状血流信号",
+      "D. 结节边界模糊，内部回声不均匀，血流信号极其丰富"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_194"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于卵巢畸胎瘤的特征性表现，正确的是（）",
+    "options": [
+      "A. 肿块内可见脂肪、钙化、骨骼、液体等多种成分",
+      "B. 薄壁无回声区，后方回声增强",
+      "C. 实性肿块，血流信号丰富",
+      "D. 多房性囊性肿块，分隔增厚，伴乳头状突起"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_195"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于乳腺纤维腺瘤的超声表现，错误的是（）",
+    "options": [
+      "A. 边界清晰的圆形 / 椭圆形低回声结节",
+      "B. 形态规则，包膜完整",
+      "C. 内部回声均匀，后方回声无衰减",
+      "D. 边界模糊，形态不规则，内部可见微钙化"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_196"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于甲状腺癌的超声表现，错误的是（）",
+    "options": [
+      "A. 低回声结节，边界模糊，形态不规则",
+      "B. 内部可见微钙化",
+      "C. 纵横比＞1",
+      "D. 边界清晰，形态规则，内部回声均匀"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_197"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于睾丸扭转的超声表现，正确的是（）",
+    "options": [
+      "A. 睾丸增大，实质回声均匀，CDFI 血流信号丰富",
+      "B. 睾丸增大，实质回声不均匀，CDFI 血流信号明显减少 / 消失",
+      "C. 睾丸缩小，实质回声增强，CDFI 血流信号正常",
+      "D. 睾丸周围无回声区，睾丸形态正常，血流信号正常"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_198"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于扩张型心肌病的超声表现，错误的是（） 模块三 放射防护与卫生法规核心考点（40 道）",
+    "options": [
+      "A. 全心扩大，以左心室扩大为主",
+      "B. 室壁变薄，室壁运动普遍减低",
+      "C. 左室射血分数（LVEF）明显降低",
+      "D. 室间隔非对称性肥厚，室间隔厚度 / 左室后壁厚度＞1.5"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_199"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "放射防护的三大基本原则不包括（）",
+    "options": [
+      "A. 实践正当化",
+      "B. 防护最优化",
+      "C. 个人剂量限值",
+      "D. 零辐射原则"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_200"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "放射防护的三大基本方法不包括（）",
+    "options": [
+      "A. 时间防护",
+      "B. 距离防护",
+      "C. 屏蔽防护",
+      "D. 药物防护"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_201"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于辐射剂量与距离的关系，正确的是（）",
+    "options": [
+      "A. 辐射剂量与距离成正比",
+      "B. 辐射剂量与距离的平方成反比",
+      "C. 辐射剂量与距离的平方成正比",
+      "D. 辐射剂量与距离无关"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_202"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "放射工作人员连续 5 年的年平均有效剂量限值是（）",
+    "options": [
+      "A. 1mSv",
+      "B. 20mSv",
+      "C. 50mSv",
+      "D. 150mSv"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_203"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "公众照射的年有效剂量限值是（）",
+    "options": [
+      "A. 1mSv",
+      "B. 20mSv",
+      "C. 50mSv",
+      "D. 150mSv"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_204"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列组织中，对辐射最敏感的是（）",
+    "options": [
+      "A. 肌肉",
+      "B. 骨骼",
+      "C. 性腺",
+      "D. 结缔组织"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_205"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列辐射效应中，有剂量阈值的是（）",
+    "options": [
+      "A. 随机性效应",
+      "B. 确定性效应",
+      "C. 遗传效应",
+      "D. 致癌效应"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_206"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列辐射效应中，无剂量阈值的是（）",
+    "options": [
+      "A. 皮肤红斑",
+      "B. 脱发",
+      "C. 白内障",
+      "D. 致癌效应"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_207"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "放射诊疗工作分类不包括（）",
+    "options": [
+      "A. 放射治疗",
+      "B. 核医学",
+      "C. 介入放射学",
+      "D. 超声诊断"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_208"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "放射诊疗机构开展放射诊疗工作，必须取得的证件不包括（）",
+    "options": [
+      "A. 《医疗机构执业许可证》",
+      "B. 《放射诊疗许可证》",
+      "C. 《卫生许可证》",
+      "D. 以上都不是"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_209"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "放射工作人员必须取得的证件是（）",
+    "options": [
+      "A. 《医师资格证》",
+      "B. 《放射工作人员证》",
+      "C. 《护士执业证》",
+      "D. 《技师资格证》"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_210"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "放射工作人员个人剂量监测档案的保存期限是（）",
+    "options": [
+      "A. 5 年",
+      "B. 10 年",
+      "C. 20 年",
+      "D. 终生保存"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_211"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "放射工作人员职业健康档案的保存期限是（）",
+    "options": [
+      "A. 5 年",
+      "B. 10 年",
+      "C. 20 年",
+      "D. 终生保存"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_212"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列哪项不属于放射工作人员的绝对职业禁忌证（）",
+    "options": [
+      "A. 严重的造血系统疾病",
+      "B. 严重的肝肾疾病",
+      "C. 高血压",
+      "D. 未控制的癫痫"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_213"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "电离辐射警告标志的形状是（）",
+    "options": [
+      "A. 圆形",
+      "B. 三角形",
+      "C. 三叶形",
+      "D. 正方形"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_214"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于孕妇放射检查的描述，错误的是（）",
+    "options": [
+      "A. 严格限制腹部、盆腔的电离辐射检查",
+      "B. 优先选择无辐射的超声、MRI 检查",
+      "C. 必须进行 X 线 / CT 检查时，需严格屏蔽腹部、盆腔",
+      "D. 妊娠中晚期可以常规进行腹部 CT 检查"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_215"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于婴幼儿放射检查的描述，错误的是（）",
+    "options": [
+      "A. 严格控制照射野",
+      "B. 屏蔽性腺、甲状腺、晶状体等敏感器官",
+      "C. 尽量降低辐射剂量",
+      "D. 可以常规进行 CT 体检筛查"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_216"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "医疗废物中，感染性废物、损伤性废物应使用哪种颜色的专用包装袋 / 锐器盒（）",
+    "options": [
+      "A. 黑色",
+      "B. 黄色",
+      "C. 红色",
+      "D. 蓝色"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_217"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "我国法定的甲类传染病是（）",
+    "options": [
+      "A. 鼠疫、霍乱",
+      "B. 新型冠状病毒感染、艾滋病",
+      "C. 肺结核、梅毒",
+      "D. 流行性感冒、手足口病"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_218"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "医疗机构发现甲类传染病时，下列做法错误的是（）",
+    "options": [
+      "A. 对患者、病原携带者予以隔离治疗",
+      "B. 对疑似患者确诊前在指定场所单独隔离治疗",
+      "C. 对密切接触者进行医学观察",
+      "D. 对疑似患者可先在普通病房治疗，确诊后再隔离"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_219"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "医学伦理四大基本原则不包括（）",
+    "options": [
+      "A. 尊重原则",
+      "B. 不伤害原则",
+      "C. 有利原则",
+      "D. 经济效益原则"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_220"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "医学伦理的底线原则是（）",
+    "options": [
+      "A. 尊重原则",
+      "B. 不伤害原则",
+      "C. 有利原则",
+      "D. 公正原则"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_221"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "患者的权利不包括（）",
+    "options": [
+      "A. 生命健康权",
+      "B. 知情同意权",
+      "C. 自主选择权",
+      "D. 强制治疗权"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_222"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于特殊检查知情同意的描述，错误的是（）",
+    "options": [
+      "A. 检查前必须向患者告知检查的目的、流程、风险",
+      "B. 告知患者辐射危害、注意事项",
+      "C. 取得患者的知情同意，签署知情同意书",
+      "D. 紧急情况下，无需告知即可进行检查"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_223"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于患者隐私保护的描述，错误的是（）",
+    "options": [
+      "A. 对患者的病情、检查资料、个人信息严格保密",
+      "B. 不得随意泄露、传播患者的隐私信息",
+      "C. 可以将患者的检查资料随意发布到社交平台",
+      "D. 非诊疗需要，不得查阅患者的病历资料"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_224"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列哪项不属于降低 CT 辐射剂量的方法（）",
+    "options": [
+      "A. 降低管电流",
+      "B. 降低管电压",
+      "C. 减小螺距",
+      "D. 采用迭代重建算法"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_225"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列哪种材料是最常用的 X 线屏蔽材料（）",
+    "options": [
+      "A. 铁",
+      "B. 铜",
+      "C. 铅",
+      "D. 铝"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_226"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "放射工作人员个人剂量计常规佩戴位置是（）",
+    "options": [
+      "A. 铅衣内左胸前",
+      "B. 铅衣外左胸前",
+      "C. 铅衣内右胸前",
+      "D. 铅衣外右胸前"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_227"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于碘对比剂使用的描述，错误的是（）",
+    "options": [
+      "A. 检查前需详细询问患者过敏史",
+      "B. 检查前需评估患者肾功能",
+      "C. 对碘过敏者可以使用碘对比剂",
+      "D. 检查后嘱患者多饮水，促进对比剂排泄"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_228"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "服用二甲双胍的糖尿病患者，CT 增强检查前后需停药的时间是（）",
+    "options": [
+      "A. 检查前停药 12 小时，检查后停药 12 小时",
+      "B. 检查前后各停药 24 小时",
+      "C. 检查前后各停药 48 小时",
+      "D. 无需停药"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_229"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "碘对比剂过敏反应的首选急救药物是（）",
+    "options": [
+      "A. 地塞米松",
+      "B. 肾上腺素",
+      "C. 苯海拉明",
+      "D. 阿托品"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_230"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列哪项不属于 MRI 增强钆对比剂的禁忌症（）",
+    "options": [
+      "A. 钆对比剂过敏者",
+      "B. 严重肾功能不全患者",
+      "C. 妊娠 3 个月以内孕妇",
+      "D. 高血压患者"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_231"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于硫酸钡造影的描述，错误的是（）",
+    "options": [
+      "A. 用于消化道造影检查",
+      "B. 消化道穿孔患者可以使用",
+      "C. 肠梗阻患者严禁使用",
+      "D. 口服途径给药"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_232"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列哪项不属于放射诊疗工作场所的必备要求（）",
+    "options": [
+      "A. 设置电离辐射警告标志",
+      "B. 入口处设置工作状态指示灯",
+      "C. 足够的屏蔽防护",
+      "D. 配备急救药品和设备"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_233"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于放射工作人员上岗前要求的描述，错误的是（）",
+    "options": [
+      "A. 必须进行上岗前职业健康检查",
+      "B. 必须经过放射防护知识培训，考核合格",
+      "C. 无需取得《放射工作人员证》即可上岗",
+      "D. 有职业禁忌证者，不得从事放射工作"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_234"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于时间防护的描述，错误的是（）",
+    "options": [
+      "A. 尽量缩短受照时间",
+      "B. 熟练操作技术，减少不必要的曝光",
+      "C. 重复检查，确保影像质量",
+      "D. 避免不必要的长时间透视"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_235"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于屏蔽防护的描述，错误的是（）",
+    "options": [
+      "A. 工作人员穿戴铅衣、铅帽、铅围脖等防护用品",
+      "B. 患者非检查部位用铅衣遮挡",
+      "C. 机房门窗、墙壁采用屏蔽材料",
+      "D. 铅衣破损不影响防护效果，可继续使用"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_236"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列哪项属于确定性效应（）",
+    "options": [
+      "A. 癌症",
+      "B. 遗传效应",
+      "C. 皮肤红斑、溃疡",
+      "D. 白血病"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_237"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列哪项属于随机性效应（）",
+    "options": [
+      "A. 白内障",
+      "B. 脱发",
+      "C. 急性放射病",
+      "D. 致癌效应"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_238"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "育龄妇女非必要的腹部、盆腔辐射检查，应在什么时间进行（） 模块四 医学基础知识核心考点（50 道）",
+    "options": [
+      "A. 月经来潮前 1 周",
+      "B. 月经来潮后 10 天内",
+      "C. 月经期",
+      "D. 月经干净后 10-14 天"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_239"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "人体结构和功能的基本单位是（）",
+    "options": [
+      "A. 组织",
+      "B. 细胞",
+      "C. 器官",
+      "D. 系统"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_240"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "人体四大基本组织不包括（）",
+    "options": [
+      "A. 上皮组织",
+      "B. 结缔组织",
+      "C. 神经组织",
+      "D. 骨组织"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_241"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "成人全身骨的总数是（）",
+    "options": [
+      "A. 106 块",
+      "B. 206 块",
+      "C. 306 块",
+      "D. 406 块"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_242"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "颈椎的数量是（）",
+    "options": [
+      "A. 5 块",
+      "B. 7 块",
+      "C. 12 块",
+      "D. 15 块"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_243"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "胸椎的数量是（）",
+    "options": [
+      "A. 5 块",
+      "B. 7 块",
+      "C. 12 块",
+      "D. 15 块"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_244"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "腰椎的数量是（）",
+    "options": [
+      "A. 5 块",
+      "B. 7 块",
+      "C. 12 块",
+      "D. 15 块"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_245"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "上消化道是指（）",
+    "options": [
+      "A. 口腔至食管",
+      "B. 口腔至胃",
+      "C. 口腔至十二指肠",
+      "D. 口腔至空肠"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_246"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "人体最大的实质性腺体是（）",
+    "options": [
+      "A. 胰腺",
+      "B. 甲状腺",
+      "C. 肝脏",
+      "D. 脾脏"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_247"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "胆总管和胰管的共同开口部位是（）",
+    "options": [
+      "A. 十二指肠上部",
+      "B. 十二指肠降部",
+      "C. 十二指肠水平部",
+      "D. 十二指肠升部"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_248"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "胃溃疡最好发的部位是（）",
+    "options": [
+      "A. 胃底",
+      "B. 胃体大弯侧",
+      "C. 胃窦小弯侧",
+      "D. 幽门管"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_249"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "呼吸道唯一完整的软骨环是（）",
+    "options": [
+      "A. 甲状软骨",
+      "B. 环状软骨",
+      "C. 会厌软骨",
+      "D. 杓状软骨"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_250"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "异物易坠入的支气管是（）",
+    "options": [
+      "A. 左主支气管",
+      "B. 右主支气管",
+      "C. 左肺上叶支气管",
+      "D. 右肺下叶支气管"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_251"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "左肺的分叶是（）",
+    "options": [
+      "A. 2 叶",
+      "B. 3 叶",
+      "C. 4 叶",
+      "D. 5 叶"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_252"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "右肺的分叶是（）",
+    "options": [
+      "A. 2 叶",
+      "B. 3 叶",
+      "C. 4 叶",
+      "D. 5 叶"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_253"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "输尿管的生理性狭窄不包括（）",
+    "options": [
+      "A. 肾盂输尿管移行处",
+      "B. 跨过髂血管处",
+      "C. 输尿管膀胱壁内段",
+      "D. 输尿管盆部中段"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_254"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "膀胱肿瘤、结核、炎症的好发部位是（）",
+    "options": [
+      "A. 膀胱尖",
+      "B. 膀胱体",
+      "C. 膀胱三角",
+      "D. 膀胱颈"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_255"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "受精的部位是输卵管的（）",
+    "options": [
+      "A. 子宫部",
+      "B. 峡部",
+      "C. 壶腹部",
+      "D. 漏斗部"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_256"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "输卵管结扎的常用部位是（）",
+    "options": [
+      "A. 子宫部",
+      "B. 峡部",
+      "C. 壶腹部",
+      "D. 漏斗部"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_257"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "心脏正常的起搏点是（）",
+    "options": [
+      "A. 房室结",
+      "B. 窦房结",
+      "C. 房室束",
+      "D. 浦肯野纤维"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_258"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "体循环的起点是（）",
+    "options": [
+      "A. 左心房",
+      "B. 左心室",
+      "C. 右心房",
+      "D. 右心室"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_259"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肺循环的起点是（）",
+    "options": [
+      "A. 左心房",
+      "B. 左心室",
+      "C. 右心房",
+      "D. 右心室"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_260"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "脑神经的总数是（）",
+    "options": [
+      "A. 10 对",
+      "B. 12 对",
+      "C. 31 对",
+      "D. 33 对"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_261"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "脊神经的总数是（）",
+    "options": [
+      "A. 10 对",
+      "B. 12 对",
+      "C. 31 对",
+      "D. 33 对"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_262"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "视网膜上视力最敏锐的部位是（）",
+    "options": [
+      "A. 视神经盘",
+      "B. 黄斑中央凹",
+      "C. 视网膜周边部",
+      "D. 视乳头"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_263"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "正常成年人血液中，白细胞总数的正常值是（）",
+    "options": [
+      "A. (4.0-10.0)×10⁹/L",
+      "B. (10.0-20.0)×10⁹/L",
+      "C. (100-300)×10⁹/L",
+      "D. (4.0-5.5)×10¹²/L"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_264"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "血浆胶体渗透压的主要构成物质是（）",
+    "options": [
+      "A. 氯化钠",
+      "B. 白蛋白",
+      "C. 球蛋白",
+      "D. 纤维蛋白原"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_265"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "红细胞生成的成熟因子是（）",
+    "options": [
+      "A. 铁、蛋白质",
+      "B. 维生素 B₁₂、叶酸",
+      "C. 促红细胞生成素",
+      "D. 雄激素"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_266"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "维生素 K 依赖的凝血因子不包括（）",
+    "options": [
+      "A. Ⅱ 因子",
+      "B. Ⅶ 因子",
+      "C. Ⅷ 因子",
+      "D. Ⅸ 因子"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_267"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "正常成年人的心率正常值是（）",
+    "options": [
+      "A. 50-80 次 / 分",
+      "B. 60-100 次 / 分",
+      "C. 80-120 次 / 分",
+      "D. 100-150 次 / 分"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_268"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "我国健康青年人的收缩压正常值是（）",
+    "options": [
+      "A. 60-89mmHg",
+      "B. 90-139mmHg",
+      "C. 100-140mmHg",
+      "D. 120-160mmHg"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_269"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "平静呼吸时，下列描述正确的是（）",
+    "options": [
+      "A. 吸气主动，呼气主动",
+      "B. 吸气主动，呼气被动",
+      "C. 吸气被动，呼气主动",
+      "D. 吸气被动，呼气被动"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_270"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "胃液中，促进维生素 B₁₂吸收的成分是（）",
+    "options": [
+      "A. 盐酸",
+      "B. 胃蛋白酶原",
+      "C. 黏液",
+      "D. 内因子"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_271"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "营养物质吸收的主要部位是（）",
+    "options": [
+      "A. 胃",
+      "B. 小肠",
+      "C. 结肠",
+      "D. 食管"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_272"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肾脏的基本功能单位是（）",
+    "options": [
+      "A. 肾小球",
+      "B. 肾小囊",
+      "C. 肾单位",
+      "D. 肾小管"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_273"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "正常成年人的肾小球滤过率正常值是（）",
+    "options": [
+      "A. 50ml/min",
+      "B. 100ml/min",
+      "C. 125ml/min",
+      "D. 200ml/min"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_274"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列激素中，能够降低血糖的是（）",
+    "options": [
+      "A. 胰岛素",
+      "B. 胰高血糖素",
+      "C. 糖皮质激素",
+      "D. 甲状腺激素"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_275"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "细胞坏死的特征性形态学改变不包括（）",
+    "options": [
+      "A. 核固缩",
+      "B. 核碎裂",
+      "C. 核溶解",
+      "D. 核肿胀"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_276"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列组织中，再生能力最强的是（）",
+    "options": [
+      "A. 神经细胞",
+      "B. 心肌细胞",
+      "C. 上皮细胞",
+      "D. 骨骼肌细胞"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_277"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肉芽组织的组成成分不包括（）",
+    "options": [
+      "A. 新生毛细血管",
+      "B. 成纤维细胞",
+      "C. 炎症细胞",
+      "D. 胶原纤维"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_278"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "血栓形成的最主要条件是（）",
+    "options": [
+      "A. 血流缓慢",
+      "B. 血管内皮损伤",
+      "C. 血液高凝状态",
+      "D. 血液涡流形成"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_279"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肺栓塞的血栓栓子最主要来源于（）",
+    "options": [
+      "A. 上肢深静脉",
+      "B. 下肢深静脉",
+      "C. 右心房",
+      "D. 门静脉"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_280"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "贫血性梗死最常见的器官是（）",
+    "options": [
+      "A. 肺、肠",
+      "B. 心、肾、脾",
+      "C. 脑、肝",
+      "D. 四肢、子宫"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_281"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "出血性梗死最常见的器官是（）",
+    "options": [
+      "A. 心、肾",
+      "B. 肺、肠",
+      "C. 脑、脾",
+      "D. 肝、胰腺"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_282"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "炎症的基本病理变化不包括（）",
+    "options": [
+      "A. 变质",
+      "B. 渗出",
+      "C. 增生",
+      "D. 坏死"
+    ],
+    "answer": "D",
+    "explanation": "",
+    "id": "q_auto_1781004774087_283"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "大叶性肺炎的病理类型是（）",
+    "options": [
+      "A. 浆液性炎",
+      "B. 纤维素性炎",
+      "C. 化脓性炎",
+      "D. 出血性炎"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_284"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "小叶性肺炎的病理类型是（）",
+    "options": [
+      "A. 浆液性炎",
+      "B. 纤维素性炎",
+      "C. 化脓性炎",
+      "D. 肉芽肿性炎"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_285"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肿瘤良恶性鉴别的核心是（）",
+    "options": [
+      "A. 肿瘤的大小",
+      "B. 肿瘤的生长速度",
+      "C. 肿瘤的异型性",
+      "D. 肿瘤是否转移"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_286"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "癌的组织来源是（）",
+    "options": [
+      "A. 上皮组织",
+      "B. 间叶组织",
+      "C. 神经组织",
+      "D. 淋巴造血组织"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_287"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肉瘤的组织来源是（）",
+    "options": [
+      "A. 上皮组织",
+      "B. 间叶组织",
+      "C. 神经组织",
+      "D. 淋巴造血组织"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_288"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "肝硬化的特征性病理改变是（） 模块五 药理学核心考点（10 道）",
+    "options": [
+      "A. 肝细胞坏死",
+      "B. 纤维组织增生",
+      "C. 假小叶形成",
+      "D. 肝细胞再生"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_289"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "药物的副作用发生在（）",
+    "options": [
+      "A. 治疗剂量",
+      "B. 中毒剂量",
+      "C. 极量",
+      "D. 最小中毒量"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_290"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "药物在体内代谢的主要器官是（）",
+    "options": [
+      "A. 肾脏",
+      "B. 肝脏",
+      "C. 胃肠道",
+      "D. 肺脏"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_291"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "药物在体内排泄的主要器官是（）",
+    "options": [
+      "A. 肾脏",
+      "B. 肝脏",
+      "C. 胃肠道",
+      "D. 胆道"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_292"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "过敏性休克的首选急救药物是（）",
+    "options": [
+      "A. 地塞米松",
+      "B. 肾上腺素",
+      "C. 苯海拉明",
+      "D. 阿托品"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_293"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "对比剂过敏反应急救中，常用的糖皮质激素是（）",
+    "options": [
+      "A. 泼尼松",
+      "B. 地塞米松",
+      "C. 氢化可的松",
+      "D. 布地奈德"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_294"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "缓解支气管哮喘急性发作的首选药物是（）",
+    "options": [
+      "A. 氨茶碱",
+      "B. 沙丁胺醇",
+      "C. 糖皮质激素",
+      "D. 色甘酸钠"
+    ],
+    "answer": "B",
+    "explanation": "",
+    "id": "q_auto_1781004774087_295"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "缓解心绞痛急性发作的首选药物是（）",
+    "options": [
+      "A. 美托洛尔",
+      "B. 硝苯地平",
+      "C. 硝酸甘油",
+      "D. 阿司匹林"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_296"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列药物中，属于解热镇痛药的是（）",
+    "options": [
+      "A. 吗啡",
+      "B. 哌替啶",
+      "C. 对乙酰氨基酚",
+      "D. 氯丙嗪"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_297"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "胃酸分泌抑制药中，作用最强的是（）",
+    "options": [
+      "A. 奥美拉唑",
+      "B. 雷尼替丁",
+      "C. 氢氧化铝",
+      "D. 多潘立酮"
+    ],
+    "answer": "A",
+    "explanation": "",
+    "id": "q_auto_1781004774087_298"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
+    "question": "下列关于利尿剂的描述，错误的是（） --- 第二部分 多选题（共 150 道） 模块一 医学影像技术核心考点（40 道）",
+    "options": [
+      "A. 可用于治疗高血压",
+      "B. 可用于消除水肿",
+      "C. 长期使用不会导致电解质紊乱",
+      "D. 呋塞米属于强效利尿剂"
+    ],
+    "answer": "C",
+    "explanation": "",
+    "id": "q_auto_1781004774087_299"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "X 线产生的必备条件包括（）",
+    "options": [
+      "A. 电子源",
+      "B. 高速电子流",
+      "C. 阳极靶面",
+      "D. 高真空环境",
+      "E. 有氧环境"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "id": "q_auto_1781004774087_300"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "诊断用 X 线与人体相互作用的主要形式有（）",
+    "options": [
+      "A. 光电效应",
+      "B. 康普顿散射",
+      "C. 电子对效应",
+      "D. 相干散射",
+      "E. 光核反应"
+    ],
+    "answer": "AB",
+    "explanation": "",
+    "id": "q_auto_1781004774087_301"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "下列关于光电效应的描述，正确的有（）",
+    "options": [
+      "A. 入射光子能量全部被原子吸收",
+      "B. 不产生散射线，提高影像对比度",
+      "C. 会增加患者的辐射剂量",
+      "D. 管电压越低，发生比例越高",
+      "E. 是散射线的唯一来源"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "id": "q_auto_1781004774087_302"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "X 线影像的四大质量指标包括（）",
+    "options": [
+      "A. 密度",
+      "B. 对比度",
+      "C. 清晰度",
+      "D. 失真度",
+      "E. 信噪比"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "id": "q_auto_1781004774087_303"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "影响 X 线影像密度的因素有（）",
+    "options": [
+      "A. mAs",
+      "B. 管电压",
+      "C. 摄影距离",
+      "D. 增感屏",
+      "E. 被照体厚度"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_304"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "影响 X 线影像清晰度的因素有（）",
+    "options": [
+      "A. 几何模糊",
+      "B. 运动模糊",
+      "C. 屏 - 片系统模糊",
+      "D. 管电压",
+      "E. mAs"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "id": "q_auto_1781004774087_305"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "下列关于滤线栅的使用规范，正确的有（）",
+    "options": [
+      "A. 被照体厚度＞10cm 时必须使用",
+      "B. 焦点至滤线栅的距离需在栅焦距范围内",
+      "C. X 线中心线需对准滤线栅中心",
+      "D. 滤线栅不可反置使用",
+      "E. 胸部摄影常用栅比 12:1"
+    ],
+    "answer": "BCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_306"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "高千伏摄影的特点有（）",
+    "options": [
+      "A. 管电压≥120kV",
+      "B. 穿透力强，层次丰富",
+      "C. 可降低患者辐射剂量",
+      "D. 影像对比度高",
+      "E. 多用于胸部摄影"
+    ],
+    "answer": "ABCE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_307"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "软 X 线摄影的适用范围有（）",
+    "options": [
+      "A. 乳腺",
+      "B. 阴茎",
+      "C. 咽喉软组织",
+      "D. 胸部",
+      "E. 腰椎"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "id": "q_auto_1781004774087_308"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "CR 系统的组成包括（）",
+    "options": [
+      "A. X 线机",
+      "B. IP 板",
+      "C. 影像读取装置",
+      "D. 图像处理工作站",
+      "E. 平板探测器"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "id": "q_auto_1781004774087_309"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "DR 系统中，平板探测器的类型有（）",
+    "options": [
+      "A. 直接转换型",
+      "B. 间接转换型",
+      "C. 光激励发光型",
+      "D. 闪烁体型",
+      "E. 影像板型"
+    ],
+    "answer": "AB",
+    "explanation": "",
+    "id": "q_auto_1781004774087_310"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "下列关于 DR 与 CR 的区别，描述正确的有（）",
+    "options": [
+      "A. DR 采用平板探测器，CR 采用 IP 板",
+      "B. DR 成像速度快于 CR",
+      "C. DR 的空间分辨率高于 CR",
+      "D. DR 的辐射剂量低于 CR",
+      "E. CR 可兼容传统 X 线机，DR 不可"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_311"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "下列关于 CT 值的描述，正确的有（）",
+    "options": [
+      "A. 水的 CT 值为 0HU",
+      "B. 骨皮质的 CT 值为 + 1000HU",
+      "C. 空气的 CT 值为 - 1000HU",
+      "D. 脂肪的 CT 值为 - 80~-120HU",
+      "E. 肌肉的 CT 值为 + 30~+50HU"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_312"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "下列关于窗宽窗位的描述，正确的有（）",
+    "options": [
+      "A. 窗宽是图像显示的 CT 值范围",
+      "B. 窗位是窗宽的中心 CT 值",
+      "C. 窗宽越宽，图像对比度越低",
+      "D. 窗位越高，图像整体越暗",
+      "E. 观察某一组织，窗位应设置为该组织的 CT 值"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_313"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "常规 CT 检查中，正确的窗宽窗位设置有（）",
+    "options": [
+      "A. 颅脑窗：WW80-100HU，WL30-40HU",
+      "B. 纵隔窗：WW300-500HU，WL30-50HU",
+      "C. 肺窗：WW1500-2000HU，WL-600~-700HU",
+      "D. 骨窗：WW1000-2000HU，WL300-500HU",
+      "E. 腹部窗：WW200-300HU，WL30-50HU"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_314"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "螺旋 CT 的核心参数包括（）",
+    "options": [
+      "A. 螺距",
+      "B. 层厚",
+      "C. 层距",
+      "D. 管电压",
+      "E. 管电流"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_315"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "下列关于螺距的描述，正确的有（）",
+    "options": [
+      "A. 螺距 = 扫描旋转一周检查床移动的距离 / 准直器宽度",
+      "B. 螺距越大，扫描速度越快",
+      "C. 螺距越大，辐射剂量越低",
+      "D. 螺距越大，图像噪声越大",
+      "E. 螺距越大，扫描覆盖范围越大"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_316"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "CT 增强扫描的禁忌症包括（）",
+    "options": [
+      "A. 碘过敏史",
+      "B. 严重肝肾功能不全",
+      "C. 甲状腺功能亢进",
+      "D. 严重心功能不全",
+      "E. 糖尿病患者服用二甲双胍未停药"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_317"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "临床常用的 CT 图像后处理技术有（）",
+    "options": [
+      "A. MPR（多平面重建）",
+      "B. CPR（曲面重建）",
+      "C. MIP（最大密度投影）",
+      "D. VR（容积重建）",
+      "E. SSD（表面遮盖显示）"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_318"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "降低 CT 辐射剂量的方法有（）",
+    "options": [
+      "A. 降低管电流",
+      "B. 降低管电压",
+      "C. 增大螺距",
+      "D. 采用自动管电流调制技术",
+      "E. 采用迭代重建算法"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_319"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "MRI 成像的必备条件有（）",
+    "options": [
+      "A. 强外静磁场",
+      "B. 射频脉冲",
+      "C. 梯度磁场",
+      "D. 电离辐射",
+      "E. 平板探测器"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "id": "q_auto_1781004774087_320"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "下列关于 MRI 加权成像的描述，正确的有（）",
+    "options": [
+      "A. T1WI 主要用于显示解剖结构",
+      "B. T2WI 主要用于显示病变",
+      "C. PDWI 主要用于显示关节、软组织",
+      "D. FLAIR 序列可抑制脑脊液高信号",
+      "E. DWI 序列对急性脑梗死极其敏感"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_321"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "无需注射对比剂即可完成的 MRI 检查技术有（）",
+    "options": [
+      "A. TOF-MRA",
+      "B. MRCP",
+      "C. MRU",
+      "D. DWI",
+      "E. CE-MRA"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "id": "q_auto_1781004774087_322"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "MRI 检查的绝对禁忌症有（）",
+    "options": [
+      "A. 体内植入心脏起搏器者",
+      "B. 体内植入人工耳蜗者",
+      "C. 体内有铁磁性颅内动脉瘤夹者",
+      "D. 体内有铁磁性异物者",
+      "E. 幽闭恐惧症患者无法配合者"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_323"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "DSA 的减影方式包括（）",
+    "options": [
+      "A. 时间减影",
+      "B. 能量减影",
+      "C. 混合减影",
+      "D. 空间减影",
+      "E. 密度减影"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "id": "q_auto_1781004774087_324"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "DSA 常用的穿刺入路有（）",
+    "options": [
+      "A. 股动脉",
+      "B. 桡动脉",
+      "C. 肱动脉",
+      "D. 颈动脉",
+      "E. 足背动脉"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "id": "q_auto_1781004774087_325"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "PACS 系统的核心功能包括（）",
+    "options": [
+      "A. 医学影像的采集、存储",
+      "B. 医学影像的传输、调取",
+      "C. 医学影像的管理、后处理",
+      "D. 患者检查预约、登记",
+      "E. 报告书写、审核"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "id": "q_auto_1781004774087_326"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "RIS 系统的核心功能包括（）",
+    "options": [
+      "A. 患者登记、检查预约",
+      "B. 排班管理",
+      "C. 报告书写、审核、发布",
+      "D. 工作量统计、收费管理",
+      "E. 医学影像三维后处理"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "id": "q_auto_1781004774087_327"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "B 超成像的基本过程包括（）",
+    "options": [
+      "A. 探头发射脉冲式超声波",
+      "B. 超声波在组织分界面发生反射、散射",
+      "C. 探头接收回波信号",
+      "D. 回波信号转换为不同灰度的像素",
+      "E. 形成二维断层灰阶图像"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_328"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "超声的物理特性包括（）",
+    "options": [
+      "A. 方向性",
+      "B. 反射、折射",
+      "C. 散射",
+      "D. 衰减",
+      "E. 多普勒效应"
+    ],
+    "answer": "ABCDE",
+    "explanation": "",
+    "id": "q_auto_1781004774087_329"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "超声探头的类型包括（）",
+    "options": [
+      "A. 线阵探头",
+      "B. 凸阵探头",
+      "C. 相控阵探头",
+      "D. 腔内探头",
+      "E. 平板探头"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "id": "q_auto_1781004774087_330"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "线阵探头适用于下列哪些部位的检查（）",
+    "options": [
+      "A. 甲状腺",
+      "B. 乳腺",
+      "C. 浅表器官",
+      "D. 外周血管",
+      "E. 腹部"
+    ],
+    "answer": "ABCD",
+    "explanation": "",
+    "id": "q_auto_1781004774087_331"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "multiple",
+    "sourceTag": "转换题库",
+    "question": "凸阵探头适用于下列哪些部位的检查（）",
+    "options": [
+      "A. 腹部",
+      "B. 盆腔",
+      "C. 泌尿系",
+      "D. 心脏",
+      "E. 甲状腺"
+    ],
+    "answer": "ABC",
+    "explanation": "",
+    "id": "q_auto_1781004774087_332"
+  },
+  {
+    "chapter": "自定义章节",
+    "type": "single",
+    "sourceTag": "转换题库",
     "question": "下列骨骼中不属于长骨的是",
     "options": [
       "A、 肱骨",
@@ -60620,6 +65650,6 @@ window.__QUESTION_BANK__ = [
 window.__KNOWLEDGE_BASE__ = [];
 
 window.__APP_META__ = {
-  "totalQuestions": 3787,
+  "totalQuestions": 4120,
   "totalKnowledge": 0
 };
